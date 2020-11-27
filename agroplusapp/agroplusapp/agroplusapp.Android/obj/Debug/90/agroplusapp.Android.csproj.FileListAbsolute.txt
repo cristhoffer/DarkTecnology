@@ -463,3 +463,5 @@ C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp.An
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp.Android\obj\Debug\90\res\drawable\gokuimagesplash.jpg
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp.Android\obj\Debug\90\res\drawable\mortalkombatsplash.png

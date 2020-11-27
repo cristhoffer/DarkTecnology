@@ -3,7 +3,6 @@ C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\bi
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\bin\Debug\netstandard2.0\ref\agroplusapp.dll
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\bin\Debug\netstandard2.0\agroplusapp.pdb
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.AssemblyInfoInputs.cache
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.AssemblyInfo.cs
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.csproj.CoreCompileInputs.cache
@@ -11,3 +10,9 @@ C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\ob
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.dll
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\ref\agroplusapp.dll
 C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.pdb
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.csprojAssemblyReference.cache
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\chrisdev\introSection\MainPage.xaml.g.cs
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\chrisdev\introSection\secondSplash.xaml.g.cs
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\chrisdev\loginSection\loginSection.xaml.g.cs
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\chrisdev\loginSection\signUpSection.xaml.g.cs
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\chrisdev\menuSection\menuSection.xaml.g.cs

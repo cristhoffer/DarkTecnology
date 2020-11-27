@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="agroplusapp.secondSplash">
+    <StackLayout
+        HorizontalOptions="Center"
+        VerticalOptions="Center"
+        Padding="10">
+        <Image
+            Source="mortalkombatsplash.png"
+            x:Name="mortalKombatSplash"
+            HeightRequest="150"
+            WidthRequest="150"/>
+    </StackLayout>
+</ContentPage>
