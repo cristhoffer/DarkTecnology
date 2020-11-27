@@ -1,0 +1,13 @@
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\bin\Debug\netstandard2.0\agroplusapp.deps.json
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\bin\Debug\netstandard2.0\agroplusapp.dll
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\bin\Debug\netstandard2.0\ref\agroplusapp.dll
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\bin\Debug\netstandard2.0\agroplusapp.pdb
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.AssemblyInfoInputs.cache
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.AssemblyInfo.cs
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.csproj.CoreCompileInputs.cache
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.dll
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\ref\agroplusapp.dll
+C:\Users\chrisduran\Desktop\DarkTecnology\agroplusapp\agroplusapp\agroplusapp\obj\Debug\netstandard2.0\agroplusapp.pdb
